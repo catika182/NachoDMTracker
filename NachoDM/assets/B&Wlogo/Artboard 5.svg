@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7140.38 1269.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #041a3f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #000;
+        font-family: Roboto-Regular, Roboto;
+        font-size: 56.24px;
+      }
+
+      .cls-2 {
+        fill: #1e98d7;
+      }
+
+      .cls-3 {
+        fill: #f59a23;
+      }
+
+      .cls-5 {
+        fill: #f9f4ef;
+        stroke: #8c8e90;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="838.9" y="551.15" width="1281.64" height="317.6"/>
+  <rect class="cls-2" x="2120.54" y="551.15" width="1281.64" height="317.6"/>
+  <rect class="cls-1" x="3402.18" y="551.15" width="1281.64" height="317.6"/>
+  <rect class="cls-5" x="4683.82" y="551.15" width="1281.64" height="317.6"/>
+  <g>
+    <text class="cls-4" transform="translate(5295.11 1035.16)"><tspan x="0" y="0">#F9F4E</tspan></text>
+    <text class="cls-4" transform="translate(3931.84 1031.7)"><tspan x="0" y="0">#041A3</tspan></text>
+    <text class="cls-4" transform="translate(2650.2 1031.7)"><tspan x="0" y="0">#1E98D</tspan></text>
+    <text class="cls-4" transform="translate(1368.56 1031.7)"><tspan x="0" y="0">#F59A2</tspan></text>
+  </g>
+</svg>
